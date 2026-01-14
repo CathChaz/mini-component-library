@@ -50,3 +50,5 @@ NOTES: - All components are styled using pure CSS - No JavaScript is used in
 this project - The modal is static and demonstrates styling only - AI usage and
 decisions are documented in PROMPTLOG.md
 ```
+
+- Modal uses a softened overlay to maintain background clarity and reduce visual fatigue.
